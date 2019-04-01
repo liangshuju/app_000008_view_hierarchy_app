@@ -1,7 +1,6 @@
 package peter.anos.ask.app.view.view_hierarchy;
 
 import android.app.Activity;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -10,7 +9,6 @@ import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.Toast;
 
-import java.util.concurrent.ConcurrentHashMap;
 
 public class MainViewHierarchyActivity extends Activity {
 
